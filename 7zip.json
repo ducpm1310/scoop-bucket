@@ -1,5 +1,5 @@
 {
-    "version": "19.00",
+    "version": "16.04",
     "description": "A multi-format file archiver with high compression ratios",
     "homepage": "https://www.7-zip.org/",
     "license": {
@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://7-zip.org/a/7z1900-x64.msi",
+            "url": "https://7-zip.org/a/7z1604-x64.msi",
             "hash": "a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc"
         },
         "32bit": {
